@@ -15,8 +15,8 @@ body{
 .container{
     width: 960px;
     margin: auto;
-    border: 0px solid #000;
-    background: #111;
+    border: 0px solid #f68;
+    background: #f11;
 }
 nav,article{
     float: left;
