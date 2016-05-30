@@ -1,0 +1,29 @@
+img{
+    background-position: center;
+     background-attachment: fixed;
+     background-repeat:space;
+}
+h1{
+    color:#347;
+    letter-spacing: 10px;
+    text-shadow: 5px 5px 9px #369
+}
+body{
+    background:#ECF6CE;
+    background: 
+}
+.container{
+    width: 960px;
+    margin: auto;
+    border: 0px solid #000;
+    background: #111;
+}
+nav,article{
+    float: left;
+}
+nav{
+    width: 260px;
+}
+article{
+    width: 700px;
+}
